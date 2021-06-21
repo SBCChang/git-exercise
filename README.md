@@ -1,4 +1,4 @@
 # git-exercise
 
-Just a test.
-This is a second line.
+Just a test.  
+This is a second line.  
