@@ -1,2 +1,4 @@
 New file  
-It's the second line.
+It's the second line.  
+=====================  
+
